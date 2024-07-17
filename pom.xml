@@ -16,14 +16,6 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>spring-context-1</module>
-        <module>spring-context-2</module>
-        <module>spring-context-3</module>
-        <module>spring-aop</module>
-        <module>spring-mvc</module>
-        <module>spring-rest</module>
-        <module>spring-jdbc</module>
-        <module>spring-jdbc-template</module>
     </modules>
 
     <dependencies>
